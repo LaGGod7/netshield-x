@@ -45,13 +45,11 @@ every node on the network blocks that IP within 10 seconds.
 ### 1. Install dependencies
 npm install
 
-### 2. Start the server
-npx ts-node server.ts
 
-### 3. Start the frontend
+### 2. Start the frontend
 npm run dev
 
-### 4. Open the dashboard
+### 3. Open the dashboard
 http://localhost:5173
 
 ---
